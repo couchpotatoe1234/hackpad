@@ -1,2 +1,2 @@
 # hackpad
-small macropad with a simple four keys, case is 3d   printed and has extra highlights for multicolor printing
+A simple 4x4 macropad for my 3d designing on Onshape.
