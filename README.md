@@ -6,11 +6,20 @@ I designed this to improve my life using Onshape, not having to press all the ke
 <img width="673" height="529" alt="Screenshot 2026-02-26 at 7 47 05 AM" src="https://github.com/user-attachments/assets/23a98b84-eec4-4c76-b79f-3bd64372baed" />
 (this is my overall model)
 
+
+
+
 <img width="389" height="430" alt="Screenshot 2026-02-26 at 7 48 28 AM" src="https://github.com/user-attachments/assets/ac35dfc3-33fd-4355-a3e0-5ebcc5744e00" />
-(this is my schematics)
+(these are my schematics)
+
+
+
 
 <img width="439" height="498" alt="Screenshot 2026-02-26 at 7 48 14 AM" src="https://github.com/user-attachments/assets/1cd2ad3e-39db-4a80-8a2e-9d2fe734baee" />
 (this is my PCB)
+
+
+
 
 <img width="713" height="544" alt="Screenshot 2026-02-26 at 7 48 03 AM" src="https://github.com/user-attachments/assets/f401fe63-2d1d-4245-a619-ff11effecfdf" />
 (this is my frame)
