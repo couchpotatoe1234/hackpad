@@ -22,4 +22,4 @@ I designed this to improve my life using Onshape, not having to press all the ke
 
 
 <img width="713" height="544" alt="Screenshot 2026-02-26 at 7 48 03 AM" src="https://github.com/user-attachments/assets/f401fe63-2d1d-4245-a619-ff11effecfdf" />
-(this is my frame)
+(this is my frame: link to Onshape:https://cad.onshape.com/documents/eaf805fe714e44a658f87d2d/w/abe58344c97c5e0e84d20075/e/9b6b4fc59104de51cb7dc8f9)
